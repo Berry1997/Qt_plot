@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TrackLine.qml</file>
+        <file>AGVmarker.qml</file>
+        <file>Drawarea.qml</file>
+        <file>UItag.qml</file>
+    </qresource>
+</RCC>

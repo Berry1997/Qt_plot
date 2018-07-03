@@ -1,0 +1,26 @@
+<File>
+ <Track>
+  <StartX1>94.8438</StartX1>
+  <StartY1>128.262</StartY1>
+  <EndX1>226.398</EndX1>
+  <EndY1>109.496</EndY1>
+ </Track>
+ <Track>
+  <StartX2>211.555</StartX2>
+  <StartY2>169.879</StartY2>
+  <EndX2>394.98</EndX2>
+  <EndY2>151.957</EndY2>
+ </Track>
+ <Track>
+  <StartX3>236.199</StartX3>
+  <StartY3>278.496</StartY3>
+  <EndX3>357.133</EndX3>
+  <EndY3>236.438</EndY3>
+ </Track>
+ <Track>
+  <StartX4>165.668</StartX4>
+  <StartY4>342.195</StartY4>
+  <EndX4>362.809</EndX4>
+  <EndY4>396.824</EndY4>
+ </Track>
+</File>
